@@ -1,0 +1,10 @@
+* disposable
+
+common code for CL disposable
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/cbaggers/disposable.git   |
+| commit  | 3f93974  |
+| systems | disposable |
+|---------+-------------------------------------------|
+
